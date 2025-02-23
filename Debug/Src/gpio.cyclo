@@ -1,0 +1,3 @@
+../Src/gpio.c:6:5:GPIO_Set_Pin_Mode	1
+../Src/gpio.c:13:5:GPIO_Init	1
+../Src/gpio.c:19:5:GPIO_Toggle_Pin	1
